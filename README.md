@@ -1,4 +1,4 @@
-# TERMINAL//WORD
+# MACROHOPE
 
 A zero-dependency, offline-first daily 5-letter word game with a dark terminal UI.
 
